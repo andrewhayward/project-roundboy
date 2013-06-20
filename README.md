@@ -1,4 +1,4 @@
-project-roundboy
+Project RoundBoy
 ================
 
-Project RoundBoy
+A 'learning' exercise
